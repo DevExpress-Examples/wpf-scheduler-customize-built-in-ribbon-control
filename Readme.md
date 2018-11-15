@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SchedulerRibbonExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/SchedulerRibbonExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/SchedulerRibbonExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/SchedulerRibbonExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to provide the Ribbon UI for the Scheduler control
 
 
