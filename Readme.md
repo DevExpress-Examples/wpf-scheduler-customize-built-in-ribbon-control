@@ -3,17 +3,25 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T544922)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [MainWindow.xaml](./CS/SchedulerRibbonExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SchedulerRibbonExample/MainWindow.xaml))
+# WPF Scheduler - Customize the Built-In Ribbon Control
+
+This example uses [customization actions](https://docs.devexpress.com/WPF/7045/controls-and-libraries/ribbon-bars-and-menu/bars/bar-actions) to modify the Scheduler's Ribbon UI (add, modify, and remove ribbon items).
+
+![image](https://github.com/DevExpress-Examples/how-to-provide-the-ribbon-ui-for-the-scheduler-control-t544922/assets/65009440/a73039fa-ddc7-4fc8-8e7b-3dae3d769931)
+
+## Files to Review
+
+* [MainWindow.xaml](./CS/SchedulerRibbonExample/MainWindow.xaml)
 * [MainWindow.xaml.cs](./CS/SchedulerRibbonExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/SchedulerRibbonExample/MainWindow.xaml.vb))
-<!-- default file list end -->
-# How to provide the Ribbon UI for the Scheduler control
 
+## Documentation
 
-This example follows the <a href="http://help.devexpress.com/#WPF/CustomDocument115303">How to: Implement the Ribbon UI for the Scheduler</a> topic and demonstrates how to create the ribbon UI for the <strong>WPF Scheduler</strong> and use the ribbon customization actions to add, modify, or remove ribbon elements.<br><br>
+* [Customize the Built-In Ribbon for the Scheduler](https://docs.devexpress.com/WPF/115303/controls-and-libraries/scheduler/examples/how-to-display-the-integrated-ribbon-for-the-scheduler)
+* [Scheduler Ribbon](https://docs.devexpress.com/WPF/120132/controls-and-libraries/scheduler/visual-elements/ribbon)
+* [SchedulerControl.RibbonActions](https://docs.devexpress.com/WPF/DevExpress.Xpf.Scheduling.SchedulerControl.RibbonActions)
 
-<br/>
+## More Examples
 
-
+* [WPF Scheduler - Apply End-User Restrictions](https://github.com/DevExpress-Examples/wpf-scheduler-apply-end-user-restrictions)
+* [WPF Scheduler - Print and Export](https://github.com/DevExpress-Examples/how-to-print-the-scheduler-using-scheduler-reporting-t581109)
