@@ -24,4 +24,4 @@ This example uses [customization actions](https://docs.devexpress.com/WPF/7045/c
 ## More Examples
 
 * [WPF Scheduler - Apply End-User Restrictions](https://github.com/DevExpress-Examples/wpf-scheduler-apply-end-user-restrictions)
-* [WPF Scheduler - Print and Export](https://github.com/DevExpress-Examples/how-to-print-the-scheduler-using-scheduler-reporting-t581109)
+* [WPF Scheduler - Use Scheduler Report to Print and Export Appointments](https://github.com/DevExpress-Examples/wpf-scheduler-use-scheduler-report-to-print-and-export-appointments)
